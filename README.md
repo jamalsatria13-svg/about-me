@@ -16,14 +16,14 @@ Right now I'm mostly writing Python, and slowly moving from "building apps for m
 **[habit-rpg-v2](https://github.com/jamalsatria13-svg/habit-rpg-v2)**
 A desktop habit tracker that turns daily routines (prayer, workouts, finances, study) into an RPG-style progress system — HP, EXP, Gold, and levels from Pemula to Legenda. Built with Python and Streamlit, with a JSON-based storage layer and a level-up system I had to rebuild twice to get the state handling right.
 
-`Python` · `Streamlit` · `JSON storage`
+`Python` · `Streamlit` · `JSON storage` · `supabase`
 
 ---
 
 ### Also in the works (not public yet)
 
 A couple of other things I'm building but not ready to show off:
-- A Telegram bot for habit tracking, backed by Supabase
+- A Telegram bot for a daily journal, backed by Supabase
 - Some experiments with audio processing / text sync in Python
 
 They'll show up here once they're documented properly. No point linking to something half-finished.
@@ -51,3 +51,5 @@ They'll show up here once they're documented properly. No point linking to somet
 ---
 
 <p align="center"><i>Feel free to open an issue on any repo if you've got feedback — I read all of them.</i></p>
+<p align="center"><i>And don't hesitate to give my repo a star; that’s all, and thank you..</i></p>
+
