@@ -1,25 +1,36 @@
-# about-me
-
-<h1 align="center">Halo, saya Jamal 👋</h1>
-<h3 align="center">Mahasiswa Sistem Informasi | Fokus: Data & Optimasi Proses</h3>
-
-<p align="center">
-Membangun tools praktis untuk menyelesaikan masalah nyata — sambil kuliah dan bekerja shift pabrik.
-</p>
+<h1 align="center">Hi, I'm Jamal</h1>
+<h3 align="center">Information Systems student, currently leaning into data & process work</h3>
 
 ---
 
-### 🧭 Tentang Saya
+### A bit about me
 
-- 🎓 Mahasiswa **Sistem Informasi** (Universitas Terbuka)
-- 🏭 Bekerja shift rotasi (pagi/malam) sambil kuliah — belajar manajemen waktu dari pengalaman langsung, bukan teori
-- 💡 Fokus belajar: **Python**, logika data, dan otomatisasi proses sehari-hari
-- 🎯 Target jangka panjang: berkarier di bidang sistem informasi / pengolahan data
-- 🌱 Saat ini sedang memperdalam Python di luar konteks GUI/aplikasi desktop — masuk ke arah data & backend
+I'm studying Information Systems (Universitas Terbuka) while working rotating factory shifts — so most of what I build gets squeezed into whatever hours are left. That's shaped how I work: small, finishable tools over ambitious half-built ones.
+
+Right now I'm mostly writing Python, and slowly moving from "building apps for myself" toward data and backend work. Long term I want to end up somewhere in information systems or data, ideally something with real structure to it.
 
 ---
 
-### 🛠️ Tech Stack
+### What I've been building
+
+**[habit-rpg-v2](https://github.com/jamalsatria13-svg/habit-rpg-v2)**
+A desktop habit tracker that turns daily routines (prayer, workouts, finances, study) into an RPG-style progress system — HP, EXP, Gold, and levels from Pemula to Legenda. Built with Python and Streamlit, with a JSON-based storage layer and a level-up system I had to rebuild twice to get the state handling right.
+
+`Python` · `Streamlit` · `JSON storage`
+
+---
+
+### Also in the works (not public yet)
+
+A couple of other things I'm building but not ready to show off:
+- A Telegram bot for habit tracking, backed by Supabase
+- Some experiments with audio processing / text sync in Python
+
+They'll show up here once they're documented properly. No point linking to something half-finished.
+
+---
+
+### Tools I use
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -30,33 +41,13 @@ Membangun tools praktis untuk menyelesaikan masalah nyata — sambil kuliah dan 
 
 ---
 
-### 📌 Featured Project
-
-**[habit-rpg-v2](https://github.com/jamalsatria13-svg/habit-rpg-v2)** — Aplikasi desktop *habit tracker* bergaya RPG
-
-Dibangun dengan Python + Streamlit. Mengubah kebiasaan harian (ibadah, fisik, finansial, belajar) menjadi sistem progres game: HP, EXP, Gold, dan sistem level (Pemula → Legenda). Termasuk fitur weekly missions dan penyimpanan data atomik berbasis JSON.
-
-`Python` `Streamlit` `State Management` `Local Data Persistence`
-
----
-
-### 🚧 Sedang Dikerjakan
-
-Beberapa project lain masih dalam tahap pengembangan privat sebelum dirilis publik:
-- Bot Telegram untuk habit-tracking (integrasi Supabase, real-time)
-- Eksplorasi pemrosesan audio & sinkronisasi teks berbasis Python
-
-*(Akan ditambahkan ke profil ini setelah didokumentasikan dengan baik.)*
-
----
-
-### 📊 Aktivitas
+### Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jamalsatria13-svg&show_icons=true&theme=default&hide_title=false&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jamalsatria13-svg&show_icons=true&theme=default&count_private=true" alt="GitHub Stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=jamalsatria13-svg&theme=default" alt="GitHub Streak"/>
 </p>
 
 ---
 
-<p align="center"><i>Terbuka untuk diskusi, kolaborasi, atau feedback teknis — silakan buka issue di repo manapun.</i></p>
+<p align="center"><i>Feel free to open an issue on any repo if you've got feedback — I read all of them.</i></p>
